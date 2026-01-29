@@ -35,6 +35,7 @@ The model successfully learns the linear relationship between experience and sal
 - Regression analysis practice for academic and internship screening  
 
 ## Repository Structure
+- Experience-Salary.csv
 - License
 - README.md
 - salary_vs_expectation.ipynb
