@@ -1,7 +1,10 @@
-# Machine Learning Projects
+# Machine Learning 
 
 This repository contains practical implementations of core machine learning algorithms through focused, project-based workflows.
 
+## Learning Theory
+- Ridge and Lasso Regression Implementation
+  
 ## Projects
 - Diabetes Prediction using Logistic Regression  
 - Experience vs Salary Prediction using Linear Regression  
